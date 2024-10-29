@@ -1,4 +1,4 @@
-# Compilation of Projects and assignments for CPE439 Real-Time Operating Systems<br /> #
+# Compilation of Projects and assignments for CPE316 Microcontrollers and Embedded Applications.<br /> #
 
 
 
